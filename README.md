@@ -1,5 +1,8 @@
 # reminder
 A list of command, code and other stuff to have at hand. Use CherryTree. There is command for Linux and Windows.
+
+<img src="example.png" title="An example from CherryTree" />
+
 <p><strong>Index</strong></p>
 <p>linux</p>
 
