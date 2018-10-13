@@ -1,11 +1,11 @@
 
 # Reminder
-A list of commands, codes and other stuff to have at hand. Use CherryTree. 
+A list of commands, codes and other stuff to have at hand.
 
 ----------
 
 
-| Subject | Sub-Subject example |
+| Subject | Tools |
 |--|--|
 | <a href="./software">Software</a> | Git, Docker, tmux |
 | <a href="./linux">Linux</a> | search, file manipulation, System, Users/Groups permission, Network|
