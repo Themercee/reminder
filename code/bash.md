@@ -1,9 +1,9 @@
 # Bash
 
-- Variable
-- Condition
-- Loop
-- Parse args from command line
+- <a href="#variable">Variable</a>
+- <a href="#condition">Condition</a>
+- <a href="loop">Loop</a>
+- <a href="parse-arguments-from-command-line">Parse args from command line
 
 ## Variable
 
