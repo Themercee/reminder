@@ -22,7 +22,7 @@ print(var1)
 ```python
 test = False
 
-if not test:
+if not test and True:
     print("Hello world")
 else:
     print("Never print")
