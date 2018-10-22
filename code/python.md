@@ -1,12 +1,12 @@
 # Python
 
-- <a href="variable">variable</a>
-- <a href="condition">condition</a>
-- <a href="loop">loop</a>
+- <a href="#variable">variable</a>
+- <a href="#condition">condition</a>
+- <a href="#loop">loop</a>
 
 Module
 
-- <a href="file">File</a>
+- <a href="#file">File</a>
 - JSON
 - System
 
