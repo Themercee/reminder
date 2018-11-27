@@ -50,6 +50,6 @@ with open(filename) as domains:
 
 ```python
 # Read all the file and store it
-file = open('testfile.text', 'r') 
-print file.read() 
+file = open('testfile.text', 'r')
+print file.read()
 ```
