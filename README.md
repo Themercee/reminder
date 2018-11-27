@@ -11,6 +11,6 @@ A list of commands, codes and other stuff to have at hand.
 | <a href="./linux">Linux</a> | search, file manipulation, System, Users/Groups permission, Network|
 | <a href="windows">Windows</a> | Powershell, CMD/Batch, System, Security|
 | <a href="./code">Code</a> | Python, JS/Node JS, Powershell, Database, Bash, Compilation|
-| <a href="security">Security</a> | Network, Web, Recon, Crack Pass, Windows|
+| <a href="./pentest">Pentest</a> | Web, Network, Recon, Crack Pass, Windows|
 
 
